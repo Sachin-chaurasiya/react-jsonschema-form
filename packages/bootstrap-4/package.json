@@ -31,7 +31,7 @@
     "@rjsf/core": "^5.0.0",
     "@rjsf/utils": "^5.0.0",
     "react": "^16.14.0 || >=17",
-    "react-bootstrap": "^1.6.5"
+    "react-bootstrap": "^2.7.2"
   },
   "engineStrict": false,
   "engines": {
@@ -52,7 +52,7 @@
     "dts-cli": "^1.6.3",
     "eslint": "^8.36.0",
     "react": "^17.0.2",
-    "react-bootstrap": "^1.6.5",
+    "react-bootstrap": "^2.7.2",
     "react-dom": "^17.0.2",
     "react-test-renderer": "^17.0.2",
     "rimraf": "^4.4.1"
